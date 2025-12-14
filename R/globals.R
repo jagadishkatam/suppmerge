@@ -1,0 +1,10 @@
+utils::globalVariables(
+  c(
+    "RDOMAIN",
+    "IDVARVAL",
+    "STUDYID",
+    "USUBJID",
+    "QNAM",
+    "QVAL"
+  )
+)
